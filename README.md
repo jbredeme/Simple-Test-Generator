@@ -11,9 +11,8 @@ property: (<int> != 3)
 
 ## Usage
 ```python
-python simple_test_gen.py
 tstl simple.tstl
-tstl_rt
+python simple_test_gen.py 10 60
 ```
 
 ## Example Output
