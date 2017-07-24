@@ -1,5 +1,5 @@
 # Simple-Test-Generator
-This test generator performs all actions by calling "takeAction". It implements a random test generator, but it only runs tests of "infinite" length, it never resets. This tester, given 60 seconds of testing time, will consistently produce a failed test for the following TSTL:
+This test generator performs all actions by calling "takeAction". This implementation of a random test generator generates semi-exhaustive tests while taking code coverage into account. This tester, given 60 seconds of testing time, will consistently produce a failed test for the following TSTL:
 ```python
 pool: <int> 2
 
@@ -8,7 +8,6 @@ pool: <int> 2
 
 property: (<int> != 3)
 ```
-The approach is to generate semi-exhaustive tests while taking code coverage into account.
 
 ## Usage
 ```python
