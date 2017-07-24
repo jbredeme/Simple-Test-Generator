@@ -17,7 +17,7 @@ tstl_rt
 ```
 
 ## Example Output
-<img src="https://github.com/jbredeme/Simple-Test-Generator/blob/master/scrnsht.png" width="256">
+<img src="https://github.com/jbredeme/Simple-Test-Generator/blob/master/scrnsht.png" width="100%">
 
 ## Dependencies
 * [Python 2.7.x](https://www.python.org/) - Implementation language.
