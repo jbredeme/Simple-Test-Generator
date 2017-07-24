@@ -20,6 +20,7 @@ python simple_test_gen.py 10 60
 
 ## Dependencies
 * [Python 2.7.x](https://www.python.org/) - Implementation language.
+* [TSTL](https://github.com/agroce/tstl) - Template Scripting Testing Language.
 
 ## Author
 * **Jarid Bredemeier**
